@@ -14,7 +14,7 @@ export class MeucomponenteComponent implements OnInit {
   //CONSTRUCTOR
   constructor() {
     this.nome = "Fulano da Silva"
-    this.anoNascimento = 2005
+    this.anoNascimento = 2004
   }
 
   //COMPORTAMENTO AÇÕES
